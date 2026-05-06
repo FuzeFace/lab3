@@ -1,0 +1,66 @@
+[
+  {
+    "scene_id": 1,
+    "start": 0.0,
+    "end": 75.05414583333332,
+    "midpoint": 37.52707291666666,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_001_00-37.jpg",
+    "visual_description": "a man in a black shirt is holding a green object"
+  },
+  {
+    "scene_id": 2,
+    "start": 75.05414583333332,
+    "end": 150.10829166666664,
+    "midpoint": 112.58121874999998,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_002_01-52.jpg",
+    "visual_description": "a man is standing in front of a blackboard with neons"
+  },
+  {
+    "scene_id": 3,
+    "start": 150.10829166666664,
+    "end": 225.16243749999995,
+    "midpoint": 187.63536458333328,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_003_03-07.jpg",
+    "visual_description": "a man is writing on a blackboard"
+  },
+  {
+    "scene_id": 4,
+    "start": 225.16243749999995,
+    "end": 300.2165833333333,
+    "midpoint": 262.6895104166666,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_004_04-22.jpg",
+    "visual_description": "a man is standing in front of a blackboard with neon writing"
+  },
+  {
+    "scene_id": 5,
+    "start": 300.2165833333333,
+    "end": 375.2707291666666,
+    "midpoint": 337.74365624999996,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_005_05-37.jpg",
+    "visual_description": "a man standing in front of a blackboard with neon writing"
+  },
+  {
+    "scene_id": 6,
+    "start": 375.2707291666666,
+    "end": 450.3248749999999,
+    "midpoint": 412.7978020833333,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_006_06-52.jpg",
+    "visual_description": "a man is standing in front of a blackboard with neon writing"
+  },
+  {
+    "scene_id": 7,
+    "start": 450.3248749999999,
+    "end": 525.3790208333332,
+    "midpoint": 487.8519479166666,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_007_08-07.jpg",
+    "visual_description": "a man is writing on a blackboard"
+  },
+  {
+    "scene_id": 8,
+    "start": 525.3790208333332,
+    "end": 600.4331666666666,
+    "midpoint": 562.9060937499999,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_008_09-22.jpg",
+    "visual_description": "a man is standing in front of a blackboard with neon writing"
+  }
+]
