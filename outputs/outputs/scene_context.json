@@ -1,0 +1,110 @@
+[
+  {
+    "scene_id": 1,
+    "start": 0.0,
+    "end": 70.862458,
+    "midpoint": 35.431229,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_001_00-35.jpg",
+    "visual_description": "a man in a black shirt is holding a purple light",
+    "transcript": "Everybody's talking about artificial intelligence these days, AI. Machine learning is another hot topic. Are they the same thing or are they different? And if so, what are those differences? And deep learning is another one that comes into play. I actually did a video on these three, artificial intelligence, machine learning, and deep learning, and talked about where they fit. And there were a lot of comments on that, and I read those comments, and I'd like to address some of the most frequently asked questions so that we can clear up some of the myths and misconceptions around this. In addition, something else has happened since that video was recorded, and that is the absolute explosion of this area of generative AI. Things like large language models and chatbots have seemed to be taking over the world. We see them everywhere. Really interesting technology. And then also things like deepfakes. These are all within the realm of AI, but how do they fit within each other? How are they related to each other? We're going to take a look at that in this video and try to explain how all these technologies relate and how we can use them."
+  },
+  {
+    "scene_id": 2,
+    "start": 70.862458,
+    "end": 71.5715,
+    "midpoint": 71.21697900000001,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_002_01-11.jpg",
+    "visual_description": "a blue background with a white border",
+    "transcript": "and how we can use them. First off, a little bit of a disclaimer."
+  },
+  {
+    "scene_id": 3,
+    "start": 71.5715,
+    "end": 78.078,
+    "midpoint": 74.82475,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_003_01-14.jpg",
+    "visual_description": "a man is standing in front of a blackboard with purple writing",
+    "transcript": "First off, a little bit of a disclaimer. I'm going to have to simplify some of these concepts in order to not make this video last for a week."
+  },
+  {
+    "scene_id": 4,
+    "start": 78.078,
+    "end": 92.84275,
+    "midpoint": 85.460375,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_004_01-25.jpg",
+    "visual_description": "a man is standing in front of a blackboard",
+    "transcript": "in order to not make this video last for a week. So those of you that are really deep experts in the field, apologies in advance, but we're going to try to make this simple and that will involve some generalizations. First of all, let's start with AI. Artificial intelligence is basically trying to simulate"
+  },
+  {
+    "scene_id": 5,
+    "start": 92.84275,
+    "end": 111.6115,
+    "midpoint": 102.227125,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_005_01-42.jpg",
+    "visual_description": "a man standing in front of a blackboard with purple writing",
+    "transcript": "Artificial intelligence is basically trying to simulate with a computer something that would match or exceed human intelligence. What is intelligence? Well, it could be a lot of different things, but generally we tend to think of it as the ability to learn, to infer, and to reason, things like that. So that's what we're trying to do in the broad field of AI,"
+  },
+  {
+    "scene_id": 6,
+    "start": 111.6115,
+    "end": 123.039583,
+    "midpoint": 117.3255415,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_006_01-57.jpg",
+    "visual_description": "a man is standing in front of a blackboard",
+    "transcript": "So that's what we're trying to do in the broad field of AI, of artificial intelligence. And if we look at a timeline of AI, it really kind of started back around this timeframe and in those days it was very premature."
+  },
+  {
+    "scene_id": 7,
+    "start": 123.039583,
+    "end": 135.301833,
+    "midpoint": 129.170708,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_007_02-09.jpg",
+    "visual_description": "a man is standing in front of a blackboard with purple writing",
+    "transcript": "and in those days it was very premature. Most people had not even heard of it and it basically was a research project. But I can tell you as an undergrad, which for me was back during these times, we were doing AI work."
+  },
+  {
+    "scene_id": 8,
+    "start": 135.301833,
+    "end": 157.323833,
+    "midpoint": 146.312833,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_008_02-26.jpg",
+    "visual_description": "a man is standing in front of a blackboard",
+    "transcript": "which for me was back during these times, we were doing AI work. In fact, we would use programming languages like Lisp or Prolog and these kinds of things were kind of the predecessors to what became later expert systems. And this was a technology, again, some of these things existed previous, but that's when it really hit kind of a critical mass and became more popularized."
+  },
+  {
+    "scene_id": 9,
+    "start": 157.323833,
+    "end": 161.161,
+    "midpoint": 159.2424165,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_009_02-39.jpg",
+    "visual_description": "a man is standing in front of a blackboard",
+    "transcript": "and became more popularized. So expert systems of the 1980s, maybe in the 90s,"
+  },
+  {
+    "scene_id": 10,
+    "start": 161.161,
+    "end": 172.589083,
+    "midpoint": 166.8750415,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_010_02-46.jpg",
+    "visual_description": "a man is standing in front of a blackboard",
+    "transcript": "So expert systems of the 1980s, maybe in the 90s, and again, we use technologies like this. All of this was something that we did before we ever touched in to the next topic I'm going to talk about."
+  },
+  {
+    "scene_id": 11,
+    "start": 172.589083,
+    "end": 173.42325,
+    "midpoint": 173.0061665,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_011_02-53.jpg",
+    "visual_description": "a blue background with a white border",
+    "transcript": "to the next topic I'm going to talk about. And that's the area of machine learning."
+  },
+  {
+    "scene_id": 12,
+    "start": 173.42325,
+    "end": 179.762917,
+    "midpoint": 176.59308349999998,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_012_02-56.jpg",
+    "visual_description": "a man is standing in front of a blackboard",
+    "transcript": "And that's the area of machine learning. Machine learning is as its name implies. The machine is learning."
+  }
+]

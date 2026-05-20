@@ -1,0 +1,86 @@
+[
+  {
+    "scene_id": 1,
+    "start": 0.0,
+    "end": 70.862458,
+    "midpoint": 35.431229,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_001_00-35.jpg"
+  },
+  {
+    "scene_id": 2,
+    "start": 70.862458,
+    "end": 71.5715,
+    "midpoint": 71.21697900000001,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_002_01-11.jpg"
+  },
+  {
+    "scene_id": 3,
+    "start": 71.5715,
+    "end": 78.078,
+    "midpoint": 74.82475,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_003_01-14.jpg"
+  },
+  {
+    "scene_id": 4,
+    "start": 78.078,
+    "end": 92.84275,
+    "midpoint": 85.460375,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_004_01-25.jpg"
+  },
+  {
+    "scene_id": 5,
+    "start": 92.84275,
+    "end": 111.6115,
+    "midpoint": 102.227125,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_005_01-42.jpg"
+  },
+  {
+    "scene_id": 6,
+    "start": 111.6115,
+    "end": 123.039583,
+    "midpoint": 117.3255415,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_006_01-57.jpg"
+  },
+  {
+    "scene_id": 7,
+    "start": 123.039583,
+    "end": 135.301833,
+    "midpoint": 129.170708,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_007_02-09.jpg"
+  },
+  {
+    "scene_id": 8,
+    "start": 135.301833,
+    "end": 157.323833,
+    "midpoint": 146.312833,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_008_02-26.jpg"
+  },
+  {
+    "scene_id": 9,
+    "start": 157.323833,
+    "end": 161.161,
+    "midpoint": 159.2424165,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_009_02-39.jpg"
+  },
+  {
+    "scene_id": 10,
+    "start": 161.161,
+    "end": 172.589083,
+    "midpoint": 166.8750415,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_010_02-46.jpg"
+  },
+  {
+    "scene_id": 11,
+    "start": 172.589083,
+    "end": 173.42325,
+    "midpoint": 173.0061665,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_011_02-53.jpg"
+  },
+  {
+    "scene_id": 12,
+    "start": 173.42325,
+    "end": 179.762917,
+    "midpoint": 176.59308349999998,
+    "frame_path": "/content/lab3_video_summary/outputs/frames/scene_012_02-56.jpg"
+  }
+]

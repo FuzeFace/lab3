@@ -1,0 +1,122 @@
+[
+  {
+    "scene_id": 1,
+    "start": 0.0,
+    "end": 70.862458,
+    "timecode": "00:00–01:10",
+    "transcript": "Everybody's talking about artificial intelligence these days, AI. Machine learning is another hot topic. Are they the same thing or are they different? And if so, what are those differences? And deep learning is another one that comes into play. I actually did a video on these three, artificial intelligence, machine learning, and deep learning, and talked about where they fit. And there were a lot of comments on that, and I read those comments, and I'd like to address some of the most frequently asked questions so that we can clear up some of the myths and misconceptions around this. In addition, something else has happened since that video was recorded, and that is the absolute explosion of this area of generative AI. Things like large language models and chatbots have seemed to be taking over the world. We see them everywhere. Really interesting technology. And then also things like deepfakes. These are all within the realm of AI, but how do they fit within each other? How are they related to each other? We're going to take a look at that in this video and try to explain how all these technologies relate and how we can use them.",
+    "visual_description": "a man in a black shirt is holding a purple light",
+    "semantic_summary": "Автор обсуждает различия между искусственным интеллектом (AI), машинным обучением и глубокими нейронными сетями (deep learning). Он также рассказывает о комментариях, которые были сделаны после его предыдущего видео, где он рассматривал эти технологии вместе. Автор также упоминает развитие области генеративного искусственного интеллекта, таких как большие модельные лингвистические сети и чатботы, которые стали широко известны благодаря их использованию.",
+    "source_used": "transcript"
+  },
+  {
+    "scene_id": 2,
+    "start": 70.862458,
+    "end": 71.5715,
+    "timecode": "01:10–01:11",
+    "transcript": "and how we can use them. First off, a little bit of a disclaimer.",
+    "visual_description": "a blue background with a white border",
+    "semantic_summary": "Автор начинает свою речь с предупреждения о некоторых правилах использования.",
+    "source_used": "transcript"
+  },
+  {
+    "scene_id": 3,
+    "start": 71.5715,
+    "end": 78.078,
+    "timecode": "01:11–01:18",
+    "transcript": "First off, a little bit of a disclaimer. I'm going to have to simplify some of these concepts in order to not make this video last for a week.",
+    "visual_description": "a man is standing in front of a blackboard with purple writing",
+    "semantic_summary": "Автор объясняет, что он должен упростить некоторые концепции для того, чтобы видео не заняло неделю.",
+    "source_used": "transcript"
+  },
+  {
+    "scene_id": 4,
+    "start": 78.078,
+    "end": 92.84275,
+    "timecode": "01:18–01:32",
+    "transcript": "in order to not make this video last for a week. So those of you that are really deep experts in the field, apologies in advance, but we're going to try to make this simple and that will involve some generalizations. First of all, let's start with AI. Artificial intelligence is basically trying to simulate",
+    "visual_description": "a man is standing in front of a blackboard",
+    "semantic_summary": "Автор объясняет, что целью его видео не будет длиться неделю. Для тех, кто глубоко специализируется в области, он проявит терпение, но они будут обобщать информацию. Первым пунктом станет искусственный интеллект (AI), который стремится воспроизвести человеческие способности.",
+    "source_used": "transcript"
+  },
+  {
+    "scene_id": 5,
+    "start": 92.84275,
+    "end": 111.6115,
+    "timecode": "01:32–01:51",
+    "transcript": "Artificial intelligence is basically trying to simulate with a computer something that would match or exceed human intelligence. What is intelligence? Well, it could be a lot of different things, but generally we tend to think of it as the ability to learn, to infer, and to reason, things like that. So that's what we're trying to do in the broad field of AI,",
+    "visual_description": "a man standing in front of a blackboard with purple writing",
+    "semantic_summary": "Автор объясняет, что искусственный интеллект стремится создать компьютерные системы, которые могут обучаться, делать выводы и мыслить аналогично человеческой inteligenci. Он указывает, что понятие \"интеллект\" может включать способность учиться, делать вывода и обосновывать свои идеи. Автор считает, что это основная цель в области искусственного интеллекта.",
+    "source_used": "transcript"
+  },
+  {
+    "scene_id": 6,
+    "start": 111.6115,
+    "end": 123.039583,
+    "timecode": "01:51–02:03",
+    "transcript": "So that's what we're trying to do in the broad field of AI, of artificial intelligence. And if we look at a timeline of AI, it really kind of started back around this timeframe and in those days it was very premature.",
+    "visual_description": "a man is standing in front of a blackboard",
+    "semantic_summary": "Автор говорит, что целью искусственного интеллекта (AI) является создание алгоритмов для решения широкого спектра задач. Он утверждает, что развитие AI началось относительно недавно, примерно в этой эпохе, но тогда технологии были еще слишком примитивными для полноценного использования.",
+    "source_used": "transcript"
+  },
+  {
+    "scene_id": 7,
+    "start": 123.039583,
+    "end": 135.301833,
+    "timecode": "02:03–02:15",
+    "transcript": "and in those days it was very premature. Most people had not even heard of it and it basically was a research project. But I can tell you as an undergrad, which for me was back during these times, we were doing AI work.",
+    "visual_description": "a man is standing in front of a blackboard with purple writing",
+    "semantic_summary": "В этот момент говорится о том, что проект был очень ранним для большинства людей, и он был основанным как исследовательским проектом. Автор упоминает, что студенты, которые были его коллегами, занимались работой с искусственным интеллектом (AI) в то время.",
+    "source_used": "transcript"
+  },
+  {
+    "scene_id": 8,
+    "start": 135.301833,
+    "end": 157.323833,
+    "timecode": "02:15–02:37",
+    "transcript": "which for me was back during these times, we were doing AI work. In fact, we would use programming languages like Lisp or Prolog and these kinds of things were kind of the predecessors to what became later expert systems. And this was a technology, again, some of these things existed previous, but that's when it really hit kind of a critical mass and became more popularized.",
+    "visual_description": "a man is standing in front of a blackboard",
+    "semantic_summary": "Автор рассказывает о том, что для него было важным в этих временах - работа над технологиями искусственного интеллекта (AI). Он упоминает использование программных языков таких как Лисс и Пролог, которые были предшественниками экспериментальных систем. Автор также подчеркивает, что этот вид технологии начал набирать популярность именно тогда, когда он достиг своего пика.",
+    "source_used": "transcript"
+  },
+  {
+    "scene_id": 9,
+    "start": 157.323833,
+    "end": 161.161,
+    "timecode": "02:37–02:41",
+    "transcript": "and became more popularized. So expert systems of the 1980s, maybe in the 90s,",
+    "visual_description": "a man is standing in front of a blackboard",
+    "semantic_summary": "Автор утверждает, что экспериментальные системы искусственного интеллекта (ИИ) стали более популярными в конце 19 века и начале 20 века.",
+    "source_used": "transcript"
+  },
+  {
+    "scene_id": 10,
+    "start": 161.161,
+    "end": 172.589083,
+    "timecode": "02:41–02:52",
+    "transcript": "So expert systems of the 1980s, maybe in the 90s, and again, we use technologies like this. All of this was something that we did before we ever touched in to the next topic I'm going to talk about.",
+    "visual_description": "a man is standing in front of a blackboard",
+    "semantic_summary": "Автор упоминает, что экспериментальные системы (expert systems) были разработаны в начале 1990-х годов и использовались ранее для решения задач, которые сейчас решают современные технологии.",
+    "source_used": "transcript"
+  },
+  {
+    "scene_id": 11,
+    "start": 172.589083,
+    "end": 173.42325,
+    "timecode": "02:52–02:53",
+    "transcript": "to the next topic I'm going to talk about. And that's the area of machine learning.",
+    "visual_description": "a blue background with a white border",
+    "semantic_summary": "Автор начинает новую тему, говоря, что он будет обсуждать область машинного обучения.",
+    "source_used": "transcript"
+  },
+  {
+    "scene_id": 12,
+    "start": 173.42325,
+    "end": 179.762917,
+    "timecode": "02:53–02:59",
+    "transcript": "And that's the area of machine learning. Machine learning is as its name implies. The machine is learning.",
+    "visual_description": "a man is standing in front of a blackboard",
+    "semantic_summary": "Автор объясняет, что область машинного обучения называется так потому, что машина learns (учитается).",
+    "source_used": "transcript"
+  }
+]
